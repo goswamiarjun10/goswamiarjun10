@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/arjungo75338602" target="blank"><img src="https://img.shields.io/twitter/follow/arjungo75338602?logo=twitter&style=for-the-badge" alt="arjungo75338602" /></a> </p>
 
-- 🔭 I’m currently working on **Student**
+- 🔭 I’m currently working on **Study As a Student**
 
 - 🌱 I’m currently learning **Python**
 
