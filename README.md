@@ -11,9 +11,9 @@
 
 - 🔭 I’m currently working on **Study As a Student**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **FULL STACK WEB DEVLOPMENT**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **FULL STACK WEB DEVLOPMENT**
 
 - 📫 How to reach me **arjungoswami946@gmail.com**
 
