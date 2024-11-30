@@ -3,7 +3,7 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Arjun Goswami</h1>
 <h3 align="center">A passionate coder from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966](https://www.google.com/url?sa=i&url=https%3A%2F%2Fxenforo.com%2Fcommunity%2Fthreads%2Fhow-to-embed-a-tenor-gif.225840%2F&psig=AOvVaw2GEn0Y2PQz8cskjHUedbFl&ust=1733080541983000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKD7_6PihIoDFQAAAAAdAAAAABAE)">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw00rwW248j_3wTYjGRdfd7z&ust=1733080522604000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMiD88rihIoDFQAAAAAdAAAAABAE">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goswamiarjun10&label=Profile%20views&color=0e75b6&style=flat" alt="goswamiarjun10" /> </p>
 
